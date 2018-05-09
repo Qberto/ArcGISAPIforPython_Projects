@@ -1,0 +1,14 @@
+Firstname,Lastname,email,username,password,role,groups,assigned_state
+Kevin,Nolan,kevin.nolan@company.com,kevin.nolan,COLL@123,org_admin,"Basemaps, Central Services",KS
+John,Dye,john.dye@company.com,john.dye,STEW@123,org_user,"Basemaps, Central Services",NV
+Forrest,Hilton,forrest.hilton@company.com,forrest.hilton,SANC@123,org_user,"Basemaps, Customer Service, Field Operations & Inspections",IN
+Salil,Singhal,jones.morris@company.com,salil.singhal,MORR@123,org_user,"Basemaps, Customer Service, Field Operations & Inspections",NC
+Alanna,Chace,brown.rogers@company.com,alanna.chace,ROGE@123,org_user,"Basemaps, Central Services",AR
+Joseph,Schule,joseph.schule@company.com,joseph.schule,JOSE@123,org_user,"Basemaps, Central Services",LA
+Tiravat,Assavapokee,tiravat.assavapokee@company.com,tiravat.assavapokee,MURP@123,org_publisher,"Basemaps, Compliance, Central Services",LA
+Sudhir,Vyas,sudhir.vyas@company.com,sudhir.vyas,REED@123,org_admin,"Basemaps, Demographic Content",FL
+Albert,Gator,albert.gator@company.com,albert.gator,BELL@123,org_publisher,"Basemaps, Compliance, Demographic Content",AZ
+Jason,Layel,jason.layel@company.com,jason.layel,COOK@123,org_publisher,"Basemaps, Demographic Content",NH
+Melinda,Schinstock,melinda.schinstock@company.com,melinda.schinstock,MORG@123,org_publisher,"Basemaps, Compliance, Demographic Content",ID
+Allegra,Claire,allegra.claire@company.com,allegra.claire,ALLE@123,org_publisher,"Basemaps, Compliance, Demographic Content",FL
+Sarah,Nieto,sarah.nieto@company.com,sarah.nieto,SARA@123,org_admin,"Basemaps, Central Services",FL
