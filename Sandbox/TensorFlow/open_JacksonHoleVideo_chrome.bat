@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --app=file:///C:/Users/albe9057/Documents/GitHub/TensorFlowModels_GIS/object_detection/JacksonHole_Borderless_Youtube.html
